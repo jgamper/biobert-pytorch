@@ -11,7 +11,7 @@ pytorch [BertModel](https://arxiv.org/abs/1810.04805).
 
 To load the model:
 
-```
+```python
 from biobertology import get_biobert, get_tokenizer
 
 biobert = get_biobert(model_dir=None, download=True)
