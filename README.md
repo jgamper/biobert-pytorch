@@ -1,6 +1,7 @@
 # Biobertology
 
-Ready to use BioBert pytorch weights for HuggingFace pytorch BertModel.
+Ready to use [BioBert](https://arxiv.org/abs/1901.08746) pytorch weights for [HuggingFace](https://github.com/huggingface/transformers)
+pytorch [BertModel](https://arxiv.org/abs/1810.04805).
 
 To load the model:
 
