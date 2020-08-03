@@ -1,5 +1,11 @@
 # Biobertology
 
+**Setup**:
+
+```
+pip install biobert-pytorch==0.9 pytorch-transformers==1.2.0 torch==1.5.1
+```
+
 Ready to use [BioBert](https://arxiv.org/abs/1901.08746) pytorch weights for [HuggingFace](https://github.com/huggingface/transformers)
 pytorch [BertModel](https://arxiv.org/abs/1810.04805).
 
