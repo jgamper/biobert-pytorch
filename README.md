@@ -39,3 +39,11 @@ mv biobert_v1.1_pubmed/bert_config.json biobert_v1.1_pubmed/config.json
 ```
 
 all of the other files inside the original weights file have been deleted.
+
+## Learn more about Bert & Transformer
+
+1. [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
+2. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+3. [BERT Word Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
